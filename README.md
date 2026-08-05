@@ -1,4 +1,4 @@
-# Blinkit-2023-Revenue-Analysis
+# Blinkit-2023-Revenue-SQL-Analysis
 Case Study investigating a 2023 revenue anomaly using SQL and Data Storytelling
 
 
